@@ -15,8 +15,7 @@ We do not take responsibility for the way in which any one uses this application
 
 
 
-You should have received a copy of the GNU General Public License
-along with Damn Vulnerable Web Application (DVWA).  If not, see <https://www.gnu.org/licenses/>.
+
 
 
 
